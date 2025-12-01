@@ -1,0 +1,1 @@
+{"name":"Trigo","displayName":"Trigo","objectives":[{"index":0,"name":"Trigo","type":7,"amount":32,"primaryObjective":"minecraft:wheat","secondaryObjective":"minecraft:llama::{}"}],"xpReward":250,"itemRewards":[{"stack":"supplementaries:key{display:{Name:'{\"text\":\"TangaKey\"}'}}","count":1}]}

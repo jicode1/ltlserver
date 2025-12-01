@@ -1,0 +1,1 @@
+{"name":"Questeditor","displayName":"Questeditor","objectives":[{"index":0,"name":"Quest Editor","type":3,"amount":1,"primaryObjective":"flashnpcs:quest_editor","secondaryObjective":"212;79;2492,0;0;0","isHidden":true}],"xpReward":250,"itemRewards":[{"stack":"supplementaries:key{display:{Name:'{\"text\":\"TangaKey\"}'}}","count":1}]}

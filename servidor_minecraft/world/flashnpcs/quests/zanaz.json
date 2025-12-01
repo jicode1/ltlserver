@@ -1,0 +1,1 @@
+{"name":"zanaz","displayName":"zanaz","objectives":[{"index":0,"name":"Cajón de zanahorias","type":3,"amount":1,"primaryObjective":"farmersdelight:carrot_crate","secondaryObjective":"126;69;2676,0;0;0","isHidden":true}],"xpReward":250,"itemRewards":[{"stack":"supplementaries:key{display:{Name:'{\"text\":\"TangaKey\"}'}}","count":63}]}

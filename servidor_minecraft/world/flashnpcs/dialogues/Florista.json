@@ -1,0 +1,1 @@
+{"entries":[{"name":"init","function":"","children":[{"name":"hello","function":"","children":[{"name":"newDialogueNode","function":"acceptQuest::Florista","children":[],"text":"Florista","response":"Ok, Buscame estas flores y traemelas."}],"text":"Hola!","response":"¿Buscas trabajo?"}],"text":"Hola @p!","response":""}]}

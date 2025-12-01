@@ -1,0 +1,1 @@
+{"name":"semiia","displayName":"semiia","objectives":[{"index":0,"name":"semiia","type":7,"amount":20,"primaryObjective":"minecraft:wheat_seeds","secondaryObjective":"minecraft:trader_llama::{}"}],"xpReward":250,"itemRewards":[{"stack":"supplementaries:key{display:{Name:'{\"text\":\"TangaKey\"}'}}","count":1}]}

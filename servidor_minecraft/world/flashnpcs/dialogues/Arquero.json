@@ -1,0 +1,1 @@
+{"entries":[{"name":"init","function":"","children":[{"name":"hello","function":"","children":[{"name":"newDialogueNode","function":"acceptQuest::Arquero","children":[],"text":"Arquero","response":"Dispara a los blancos, necesito que me des 50 girasoles."}],"text":"Hola!","response":"¿Buscas trabajo?"}],"text":"Hola @p!","response":""}]}

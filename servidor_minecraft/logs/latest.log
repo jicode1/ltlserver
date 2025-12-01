@@ -1,0 +1,161 @@
+2025-12-01 05:18:56,447 [32mINFO [m [m[main][m [mc.m.m.Launcher.main(76)[m: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.3.10, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+2025-12-01 05:18:56,453 [32mINFO [m [m[main][m [mc.m.m.Launcher.<init>(51)[m: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.17 by Ubuntu
+2025-12-01 05:18:56,624 [32mINFO [m [m[main][m [mmixin.info(97)[m: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ltlserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2316!/ Service=ModLauncher Env=SERVER
+2025-12-01 05:18:57,012 [32mINFO [m [m[main][m [mn.m.f.l.m.JarInJarDependencyLocator.scanMods(51)[m: No dependencies to load found. Skipping!
+2025-12-01 05:18:58,690 [32mINFO [m [m[main][m [mmixin.info(97)[m: Compatibility level set to JAVA_17
+2025-12-01 05:18:58,763 [32mINFO [m [m[main][m [mc.m.m.LaunchServiceHandler.launch(52)[m: Launching target 'forgeserver' with arguments [nogui]
+2025-12-01 05:18:58,802 [33mWARN [m [m[main][m [mmixin.warn(132)[m: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+2025-12-01 05:19:07,491 [32mINFO [m [m[modloading-worker-0][m [mc.j.l.LibraryFerret.<init>(42)[m: Initialize mod Library Ferret
+2025-12-01 05:19:07,531 [32mINFO [m [m[modloading-worker-0][m [mc.j.l.LibraryFerret.<init>(51)[m: Initialized mod Library Ferret
+2025-12-01 05:19:07,691 [32mINFO [m [m[modloading-worker-0][m [mDungeon Crawl.<init>(52)[m: Here we go! Launching Dungeon Crawl 2.3.14...
+2025-12-01 05:19:08,494 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.ForgeMod.<init>(143)[m: Forge mod loading, version 40.3.10, for MC 1.18.2 with MCP 20220404.173914
+2025-12-01 05:19:08,495 [32mINFO [m [m[modloading-worker-0][m [mn.m.c.MinecraftForge.initialize(41)[m: MinecraftForge v40.3.10 Initialized
+2025-12-01 05:19:08,692 [32mINFO [m [m[modloading-worker-0][m [mc.m.MohistMC.init(17)[m: EventDispatcherRegistry initialized
+2025-12-01 05:19:22,554 [32mINFO [m [m[main][m [mn.m.r.GameData.checkPrefix(946)[m: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+2025-12-01 05:19:24,112 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+2025-12-01 05:19:24,113 [33mWARN [m [m[main][m [mn.m.n.s.SynchedEntityData.m_135353_(46)[m: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+2025-12-01 05:19:24,641 [32mINFO [m [m[modloading-worker-0][m [mDungeon Crawl.commonSetup(68)[m: Common Setup
+2025-12-01 05:19:24,740 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:overworld to index 0 for type OVERWORLD
+2025-12-01 05:19:24,741 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region minecraft:nether to index 0 for type NETHER
+2025-12-01 05:19:24,741 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+2025-12-01 05:19:24,741 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+2025-12-01 05:19:24,742 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+2025-12-01 05:19:24,742 [32mINFO [m [m[main][m [mterrablender.register(47)[m: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+2025-12-01 05:19:24,744 [32mINFO [m [m[main][m [mjourneymap.lambda$commonSetupEvent$5(160)[m: Initializing Packet Registries
+2025-12-01 05:19:24,764 [32mINFO [m [m[main][m [mDungeon Crawl.register(55)[m: Registering Structure Piece Types
+2025-12-01 05:19:24,893 [32mINFO [m [m[main][m [mn.m.s.Supplementaries.lambda$init$0(74)[m: Finished mod setup in: 86 ms
+2025-12-01 05:19:33,281 [32mINFO [m [m[main][m [mc.m.a.y.YggdrasilAuthenticationService.<init>(72)[m: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+2025-12-01 05:19:40,125 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/ltlserver/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2394!/assets/.mcassetsroot' uses unexpected schema
+2025-12-01 05:19:40,126 [33mWARN [m [m[main][m [mn.m.s.p.VanillaPackResources.m_182299_(58)[m: Assets URL 'union:/workspaces/ltlserver/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2394!/data/.mcassetsroot' uses unexpected schema
+2025-12-01 05:19:40,401 [32mINFO [m [m[main][m [mn.m.s.Supplementaries.reloadResources(82)[m: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 170 ms
+2025-12-01 05:19:44,480 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-12-01 05:19:44,484 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-12-01 05:19:44,487 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-12-01 05:19:44,488 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+2025-12-01 05:19:44,489 [33mWARN [m [m[main][m [mn.m.c.Commands.m_82107_(214)[m: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+2025-12-01 05:19:50,839 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+2025-12-01 05:19:50,862 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+2025-12-01 05:19:50,883 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+2025-12-01 05:19:50,896 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+2025-12-01 05:19:50,897 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
+2025-12-01 05:19:50,898 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+2025-12-01 05:19:51,033 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+2025-12-01 05:19:51,049 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+2025-12-01 05:19:51,120 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
+2025-12-01 05:19:51,126 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+2025-12-01 05:19:51,184 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+2025-12-01 05:19:51,189 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(69)[m: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
+2025-12-01 05:19:51,245 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(85)[m: Loaded 10 recipes
+2025-12-01 05:19:51,249 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+2025-12-01 05:19:51,255 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+2025-12-01 05:19:51,261 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+2025-12-01 05:19:51,266 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+2025-12-01 05:19:51,268 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
+2025-12-01 05:19:51,269 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+2025-12-01 05:19:51,308 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+2025-12-01 05:19:51,317 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+2025-12-01 05:19:51,376 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
+2025-12-01 05:19:51,379 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+2025-12-01 05:19:51,398 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+2025-12-01 05:19:51,399 [32mINFO [m [m[Worker-Main-6][m [mn.m.w.i.c.RecipeManager.m_5787_(109)[m: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
+2025-12-01 05:19:53,632 [32mINFO [m [m[Worker-Main-6][m [mDungeon Crawl.reload(50)[m: Loading data...
+2025-12-01 05:19:55,273 [32mINFO [m [m[Worker-Main-6][m [mDungeon Crawl.reload(72)[m: Done.
+2025-12-01 05:19:55,320 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.Selene.apply(183)[m: Loaded 35 Soft Fluids
+2025-12-01 05:20:00,463 [32mINFO [m [m[main][m [mn.m.s.Supplementaries.onTagLoad(131)[m: Finished additional setup in 0 seconds
+2025-12-01 05:20:00,871 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(150)[m: Starting minecraft server version 1.18.2
+2025-12-01 05:20:00,874 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(155)[m: Loading properties
+2025-12-01 05:20:00,875 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(172)[m: Default game type: SURVIVAL
+2025-12-01 05:20:00,876 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129793_(1286)[m: Generating keypair
+2025-12-01 05:20:01,070 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(183)[m: Starting Minecraft server on *:25565
+2025-12-01 05:20:01,122 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerConnectionListener.m_9711_(79)[m: Using epoll channel type
+2025-12-01 05:20:01,391 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(195)[m: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-12-01 05:20:01,392 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(196)[m: The server will make no attempt to authenticate usernames. Beware.
+2025-12-01 05:20:01,392 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(197)[m: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-12-01 05:20:01,393 [33mWARN [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(198)[m: To change this, set "online-mode" to "true" in the server.properties file.
+2025-12-01 05:20:01,534 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: This server is running Mohist version 1.18.2-dev (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT, Forge version 40.3.10)
+2025-12-01 05:20:04,402 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Debug logging is enabled
+2025-12-01 05:20:04,406 [32mINFO [m [m[Server thread][m [m.playerSample(274)[m: Server Ping Player Sample Count: 12
+2025-12-01 05:20:04,411 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Using 4 threads for Netty based IO
+2025-12-01 05:20:04,487 [32mINFO [m [m[Server thread][m [mjourneymap.load(43)[m: Loading JourneyMap Forge Configs
+2025-12-01 05:20:04,567 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:the_nether
+2025-12-01 05:20:05,147 [32mINFO [m [m[Server thread][m [mterrablender.initializeBiomes(115)[m: Initialized TerraBlender biomes for level stem minecraft:overworld
+2025-12-01 05:20:05,152 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(224)[m: Preparing level "world"
+2025-12-01 05:20:06,308 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: []
+2025-12-01 05:20:06,313 [32mINFO [m [m[Server thread][m [m.initFeedingData(94)[m: [1 apple, 1 golden_apple, 1 enchanted_golden_apple, 1 banana]
+2025-12-01 05:20:06,445 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:overworld
+2025-12-01 05:20:10,965 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,007 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,022 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,037 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,069 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,088 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,107 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,121 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,142 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:11,156 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:12,223 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:12,249 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:12,456 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:12,953 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:13,460 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:13,952 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:14,452 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:15,003 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:15,505 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:15,954 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:16,456 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:16,966 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:17,986 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-12-01 05:20:17,987 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-12-01 05:20:18,453 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 2%
+2025-12-01 05:20:19,002 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:19,452 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:19,952 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:21,797 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:21,800 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:21,803 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:21,952 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 4%
+2025-12-01 05:20:22,452 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 6%
+2025-12-01 05:20:22,952 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 24%
+2025-12-01 05:20:23,454 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 59%
+2025-12-01 05:20:23,952 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 70%
+2025-12-01 05:20:24,453 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 90%
+2025-12-01 05:20:25,084 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 18633 ms
+2025-12-01 05:20:25,170 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_end
+2025-12-01 05:20:26,089 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:26,094 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:26,172 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:26,671 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:27,173 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 7%
+2025-12-01 05:20:27,840 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 8%
+2025-12-01 05:20:28,171 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 10%
+2025-12-01 05:20:28,671 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 52%
+2025-12-01 05:20:29,211 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 4040 ms
+2025-12-01 05:20:29,220 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129940_(601)[m: Preparing start region for dimension minecraft:the_nether
+2025-12-01 05:20:29,792 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:29,796 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:30,222 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 0%
+2025-12-01 05:20:30,722 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-12-01 05:20:31,242 [32mINFO [m [m[Worker-Main-6][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-12-01 05:20:31,724 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 1%
+2025-12-01 05:20:32,224 [32mINFO [m [m[Worker-Main-5][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 6%
+2025-12-01 05:20:32,727 [32mINFO [m [m[Worker-Main-4][m [mn.m.s.l.p.LoggerChunkProgressListener.m_5511_(44)[m: Preparing spawn area: 22%
+2025-12-01 05:20:33,208 [32mINFO [m [m[Server thread][m [mn.m.s.l.p.LoggerChunkProgressListener.m_7646_(55)[m: Time elapsed: 3986 ms
+2025-12-01 05:20:33,225 [32mINFO [m [m[Server thread][m [mMinecraft.publish(36)[m: Server permissions file permissions.yml is empty, ignoring it
+2025-12-01 05:20:33,247 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_7038_(228)[m: Done (28.787s)! For help, type "help"
+2025-12-01 05:20:33,339 [32mINFO [m [m[Server thread][m [mn.m.s.p.PermissionAPI.initializePermissionAPI(130)[m: Successfully initialized permission handler forge:default_handler
+2025-12-01 05:21:14,429 [32mINFO [m [m[User Authenticator #1][m [mn.m.s.n.ServerLoginPacketListenerImpl.fireEvents(401)[m: UUID of player nachoman12 is 7438f30c-8dc6-3341-b53f-613926c80c5a
+2025-12-01 05:21:17,486 [32mINFO [m [m[Server thread][m [mn.m.c.AdvancementLoadFix.loadVisibility(36)[m: Using new advancement loading for net.minecraft.server.PlayerAdvancements@547826ce
+2025-12-01 05:21:17,928 [32mINFO [m [m[Server thread][m [mn.m.s.p.PlayerList.m_11261_(338)[m: nachoman12[/100.83.106.50:52988] logged in with entity id 591 at (191.0033337183819, 70.99637976759318, 2494.8006208213533)
+2025-12-01 05:23:34,903 [32mINFO [m [m[Server thread][m [mn.m.s.n.ServerGamePacketListenerImpl.m_7026_(1554)[m: nachoman12 lost connection: Disconnected
+2025-12-01 05:23:34,948 [32mINFO [m [m[Server thread][m [mn.m.s.d.DedicatedServer.m_6352_(656)[m: nachoman12 left the game
+2025-12-01 05:24:07,650 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(737)[m: Stopping server
+2025-12-01 05:24:07,652 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(749)[m: Saving players
+2025-12-01 05:24:07,753 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_7041_(755)[m: Saving worlds
+2025-12-01 05:24:12,733 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(673)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+2025-12-01 05:24:13,792 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(673)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+2025-12-01 05:24:14,758 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(673)[m: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+2025-12-01 05:24:16,008 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(694)[m: ThreadedAnvilChunkStorage (world): All chunks are saved
+2025-12-01 05:24:16,008 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(694)[m: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+2025-12-01 05:24:16,008 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(694)[m: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+2025-12-01 05:24:16,008 [32mINFO [m [m[Server thread][m [mn.m.s.MinecraftServer.m_129885_(697)[m: ThreadedAnvilChunkStorage: All dimensions are saved

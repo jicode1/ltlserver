@@ -1,0 +1,1 @@
+{"entries":[{"name":"init","function":"","children":[{"name":"hello","function":"","children":[{"name":"newDialogueNode","function":"moveOnAcceptedQuest::Barista_de_trago,false","children":[],"text":"Sí","response":""}],"text":"Hola","response":"¿Deseas ser despedido?"}],"text":"Hola @p!","response":""}]}

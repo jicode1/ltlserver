@@ -1,0 +1,1 @@
+{"entries":[{"name":"init","function":"","children":[{"name":"hello","function":"","children":[{"name":"newDialogueNode","function":"acceptQuest::Chamba1","children":[],"text":"Quiero chambear","response":""}],"text":"Hey @npc.","response":""}],"text":"Hi @p!","response":""}]}

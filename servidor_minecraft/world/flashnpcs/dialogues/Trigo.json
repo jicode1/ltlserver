@@ -1,0 +1,1 @@
+{"entries":[{"name":"init","function":"","children":[{"name":"hello","function":"","children":[{"name":"newDialogueNode","function":"acceptQuest::Trigo","children":[],"text":"New Node","response":""}],"text":"Hey @npc.","response":""}],"text":"Hi @p!","response":""}]}

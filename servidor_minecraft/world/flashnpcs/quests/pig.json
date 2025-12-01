@@ -1,0 +1,1 @@
+{"name":"pig","displayName":"pig","objectives":[{"index":0,"name":"pig","type":1,"amount":1,"primaryObjective":"minecraft:pig::{}"}],"xpReward":250,"itemRewards":[{"stack":"supplementaries:key{display:{Name:'{\"text\":\"TangaKey\"}'}}","count":1}]}
